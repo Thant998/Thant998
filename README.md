@@ -3,6 +3,14 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
 </div>
+<div id="badges">
+  <a href="https://www.facebook.com/mgminn.thant.5">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2FDonaldThant%3Ffbclid%3DIwAR234dl4rQRSSOl9izqYBjnCRhD1nrWqDaXgImlP5c6cEHabY_99WQZ5Huk&h=AT1XdUb8LrqhFT4-Ixa9JwBLqFJyfItae4kb1H_GpoUJFRiJ7gkhi-EeyYm64hJBVP1C6Lhtr7IkeryNtEa8re2FdHS9tEfWsqCKvanbnq8SYac8BdR0Vuxc6u1f5a7IPZP1K9OqklzAN4fANAJc">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 Java Web Developer who passionate about Java and Modern Web Development.
 
