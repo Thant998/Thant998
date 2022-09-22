@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Alon3
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thant998)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thant998)](https://git.io/streak-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thant998)](https://github.com/anuraghazra/github-readme-stats)
 
 
