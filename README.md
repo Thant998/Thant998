@@ -12,8 +12,8 @@
   <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2FDonaldThant%3Ffbclid%3DIwAR234dl4rQRSSOl9izqYBjnCRhD1nrWqDaXgImlP5c6cEHabY_99WQZ5Huk&h=AT1XdUb8LrqhFT4-Ixa9JwBLqFJyfItae4kb1H_GpoUJFRiJ7gkhi-EeyYm64hJBVP1C6Lhtr7IkeryNtEa8re2FdHS9tEfWsqCKvanbnq8SYac8BdR0Vuxc6u1f5a7IPZP1K9OqklzAN4fANAJc">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Thant998&style=flat-square&color=blue" alt=""/>
 </div>
+ <img src="https://komarev.com/ghpvc/?username=Thant998&style=flat-square&color=blue" alt=""/>
 
 Java Web Developer who passionate about Java and Modern Web Development.
 
