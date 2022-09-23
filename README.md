@@ -17,10 +17,11 @@
  <img src="https://komarev.com/ghpvc/?username=Thant998&style=flat-square&color=blue" alt=""/>
 </div>
 
+I'm Alon3 and I'm interested in programming and modern web
 
-Java Web Developer who passionate about Java and Modern Web Development.
 
-I'm so excited to go ahead with using programming.
+
+
 
 <!--### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thant998)](https://git.io/streak-stats)
