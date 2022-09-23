@@ -19,7 +19,7 @@
 
 I'm Alon3 and I'm interested in programming and modern web
 
-![1_UOjMvmmCIwseCRm3f791Lg](https://user-images.githubusercontent.com/95152361/191970807-bd4b4f7c-5639-4b39-bedf-b0b031dfd79c.gif)
+If it's wrong, please point it out.Teaching is my favorite medicine
 
 
 
