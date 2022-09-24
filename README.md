@@ -17,9 +17,22 @@
  <img src="https://komarev.com/ghpvc/?username=Thant998&style=flat-square&color=blue" alt=""/>
 </div>
 
-I'm Alon3 and I'm interested in programming and modern web
-
-If it's wrong, please point it out.Teaching is my favorite medicine
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Alon3'
+         age = 24
+		current_work = 'Writing code'
+		learning = ['Javascript','Python','Java','Html & CSS']
+	
+	def getCity():
+		return info()
+	
+	def Ambitions():
+		backend_developer()
+		
+	
+ ```
 
 
 <a href="#"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Thant998&layout=compact"> </a>
