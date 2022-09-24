@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Alon3!
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
 </div>
 <div id="badges" align="center">
@@ -15,7 +15,7 @@
 </div>
 <div id="header" align="center">
  <img src="https://komarev.com/ghpvc/?username=Thant998&style=flat-square&color=blue" alt=""/>
-</div>
+</div> -->
 
  ## Who am I?
  ```python
