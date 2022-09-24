@@ -22,7 +22,7 @@ I'm Alon3 and I'm interested in programming and modern web
 If it's wrong, please point it out.Teaching is my favorite medicine
 
 
-
+<a href="#"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Thant998&layout=compact"> </a>
 
 <!--### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thant998)](https://git.io/streak-stats)
