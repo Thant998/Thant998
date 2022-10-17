@@ -25,10 +25,10 @@
 		current_work = 'Writing code'
 		learning = ['Python','Java']
 	
-	def getCity():
+ def getCity():
 		return info()
 	
-	def Ambitions():
+ def Ambitions():
 		backend_developer()	
  ```
 
