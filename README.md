@@ -22,8 +22,8 @@
  class WhoAmI:
         user = 'Alon3'
         age = 24
-	current_work = 'Writing code'
-	learning = ['Python','Java']
+	  current_work = 'Writing code'
+	  learning = ['Python','Java']
 	
  def getCity():
 	return info()
