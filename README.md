@@ -20,9 +20,9 @@
 <!-- ## Who am I?-->
  ```python
  class WhoAmI:
-        user = 'Alon3'
-        age = 24
-	    current_work = 'Writing code'
+        user = 'Alon3':
+        age = 24;
+	    current_work = 'Writing code';
 	    learning = ['Python','Java']
 	
  def getCity():
