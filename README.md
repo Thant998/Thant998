@@ -23,7 +23,7 @@
         user = 'Alon3'
         age = 24
 	    current_work = 'Writing code'
-	    learning = ['Python', 'Java', 'Html', 'CSS']
+	    learning = ['Python', 'Java', 'Html', 'CSS', 'COBOL']
 	
  def getCity():
 	    return info()
