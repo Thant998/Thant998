@@ -1,4 +1,8 @@
-
+- 👋 Hi, I’m Alon3
+- 👀 I’m interested in everything related to ...
+- 🌱 I’m currently striving to become a better ...
+- 💞️ I’m looking to collaborate on ..., ... or ... related ...
+- 📫 minnth696@gmail.com or @DonaldThant on Twitter.
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.pythonlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.javalang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
