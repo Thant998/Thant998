@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 - 👋 Hi, I’m Minn Thant
 - 👀 I’m interested in everything related to ...
 - 🌱 I’m currently striving to become a better ...
