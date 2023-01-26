@@ -8,7 +8,7 @@
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20github%20profile;I%20am%20full-stack%20developer;years%20of%20IT%20experience;&font=Creepster&center=false&width=400&height=80&color=3aeb34&vCenter=true&size=30"></a>
 </p>
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thant998&layout=compact) 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thant998&layout=compact) -->
 
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
