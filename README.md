@@ -5,7 +5,7 @@
 - 📫 minnth696@gmail.com or @DonaldThant on Twitter.-->
 
 <p align="left">
- <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20github%20profile;I%20am%20full-stack%20developer;years%20of%20IT%20experience;&font=Creepster&center=false&width=404&height=80&color=43eb34&vCenter=true&size=30"></a>
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20github%20profile;I%20am%20full-stack%20developer;years%20of%20IT%20experience;&font=Creepster&center=false&width=404&height=80&color=a834eb&vCenter=true&size=30"></a>
 </p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thant998&layout=compact) -->
