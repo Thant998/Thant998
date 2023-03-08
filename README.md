@@ -10,8 +10,6 @@
 <p align="left">
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+I%20grab%20the%20devil%20then%20slow%20dance;&font=Oswald&center=false&width=404&height=80&color=eb3443&vCenter=false&size=30"></a>
 </p>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thant998&layout=compact) -->
-
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
