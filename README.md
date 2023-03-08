@@ -4,10 +4,12 @@
 - 💞️ I’m looking to collaborate on ..., ... or ... related ...
 - 📫 minnth696@gmail.com or @DonaldThant on Twitter.-->
 
-<p align="left">
+<!--<p align="left">
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20github%20profile;I%20am%20full-stack%20developer;years%20of%20IT%20experience;&font=Creepster&center=false&width=404&height=80&color=a834eb&vCenter=false&size=30"></a>
+</p> -->
+<p align="left">
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+I%20am%20grab%20the%20devil%20then%20slow%20then;&font=Creepster&center=false&width=404&height=80&color=a834eb&vCenter=false&size=30"></a>
 </p>
-
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thant998&layout=compact) -->
 
 <h3 align="left">Languages and Tools:</h3>
