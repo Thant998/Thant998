@@ -8,7 +8,7 @@
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20github%20profile;I%20am%20full-stack%20developer;years%20of%20IT%20experience;&font=Creepster&center=false&width=404&height=80&color=a834eb&vCenter=false&size=30"></a>
 </p> -->
 <p align="left">
- <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+I%20grab%20the%20devil%20then%20slow%20dance;&font=Oswald&center=false&width=404&height=80&color=eb3443&vCenter=false&size=30"></a>
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+I%20grab%20the%20devil%20then%20slow%20dance;&font=Creeper Italic&center=false&width=404&height=80&color=eb3443&vCenter=false&size=30"></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
