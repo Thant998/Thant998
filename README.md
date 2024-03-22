@@ -7,7 +7,7 @@
 <!--<p align="left">
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20github%20profile;I%20am%20full-stack%20developer;years%20of%20IT%20experience;&font=Creepster&center=false&width=404&height=80&color=a834eb&vCenter=f&size=30"></a>
 </p> -->
-<p align="left">
+<p align=" left">
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20github%20profile%20I%20am%20full-stack%20developer;&font=Rancho&center=false&width=404&height=50&color=#B282E9&vCenter=false&size=100"></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
